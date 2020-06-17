@@ -2,6 +2,10 @@
   "name": "material-kit-react",
   "version": "1.9.0",
   "description": "Material Kit React. Coded by Creative Tim",
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
   "private": true,
   "main": "src/index.js",
   "dependencies": {
